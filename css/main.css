@@ -2421,6 +2421,9 @@ html.no-csstransitions .home-content__main {
 
 .services-list .service-text {
     margin-left: 7.8rem;
+background-color:#f3f3f3;
+height:200px;
+border-radius:8px;
 }
 
 .services-list .service-icon {
@@ -2428,10 +2431,12 @@ html.no-csstransitions .home-content__main {
     color: #0087cc;
     font-size: 4.8rem;
     margin-top: -.6rem;
-    width: 200px;
+    width: 160px;
     height: 160px;
     margin-right: 8px;
-    border-radius: 5px;
+    border-radius: 80px;
+object-fit:fill;
+
 }
 
 
@@ -2478,6 +2483,8 @@ html.no-csstransitions .home-content__main {
     }
     .services-list .service-text {
         margin-left: 0;
+background-color: transparent;
+height:150px;
     }
     .services-list .service-icon {
         font-size: 4.5rem;
