@@ -2483,6 +2483,9 @@ html.no-csstransitions .home-content__main {
         font-size: 4.5rem;
         float: none;
         margin-top: 0;
+width:80%;
+object-fit:fill;
+border-radius:8px
     }
 }
 
@@ -2562,6 +2565,7 @@ html.no-csstransitions .home-content__main {
     vertical-align: bottom;
     -webkit-transition: all 0.5s ease-in-out;
     transition: all 0.5s ease-in-out;
+border-radius:10px
 }
 
 .item-folio__thumb a {
@@ -2623,6 +2627,9 @@ html.no-csstransitions .home-content__main {
     transform: translate3d(0, 100%, 0);
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
+margin:5px;
+border-radius:5px;
+width:97%;
 }
 
 .item-folio__title {
